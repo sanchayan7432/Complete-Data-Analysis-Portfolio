@@ -32,7 +32,9 @@ project = st.sidebar.radio(
     ]
 )
 
-base_path = os.path.dirname(os.path.dirname(__file__))
+#base_path = os.path.dirname(os.path.dirname(__file__))
+base_path = os.path.dirname(__file__)
+
 
 # =========================
 # HOME
@@ -116,4 +118,5 @@ elif project == "🛒 E-commerce Churn Analysis":
         for img in os.listdir(img_path):
             if img.endswith(".png"):
                 st.image(os.path.join(img_path, img))
+
 
