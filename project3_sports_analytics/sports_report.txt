@@ -1,0 +1,13 @@
+SPORTS ANALYTICS REPORT
+=======================
+
+Model Accuracy: 75.00%
+
+              precision    recall  f1-score   support
+
+           0       0.50      0.67      0.57         3
+           1       0.88      0.78      0.82         9
+
+    accuracy                           0.75        12
+   macro avg       0.69      0.72      0.70        12
+weighted avg       0.78      0.75      0.76        12

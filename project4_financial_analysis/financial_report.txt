@@ -1,0 +1,9 @@
+FINANCIAL MARKET ANALYSIS REPORT
+================================
+
+Annual Return: 30.03%
+Annual Volatility: 32.32%
+Sharpe Ratio: 0.93
+Max Drawdown: -22.99%
+
+Model Accuracy: 60.00%

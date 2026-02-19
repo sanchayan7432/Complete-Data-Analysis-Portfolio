@@ -1,0 +1,22 @@
+
+HEALTHCARE DATA ANALYSIS REPORT
+===============================
+
+Dataset: Pima Indians Diabetes Dataset
+
+KEY FINDINGS
+------------
+• Diabetes Prevalence: 34.90%
+• Average Age (Diabetic Patients): 37.1 years
+• Average BMI (Diabetic Patients): 35.4
+
+MODEL PERFORMANCE
+-----------------
+• Logistic Regression Accuracy: 70.13%
+
+MEDICAL INSIGHTS
+----------------
+1. Higher glucose and BMI strongly correlate with diabetes.
+2. Patients above age 35 show significantly higher risk.
+3. Preventive lifestyle interventions can reduce risk.
+4. Early screening should prioritize high-BMI individuals.

@@ -1,0 +1,17 @@
+TELCO CUSTOMER CHURN ANALYSIS REPORT
+====================================
+
+Dataset Shape: (7043, 53)
+
+Accuracy: 95.60%
+ROC-AUC: 0.985
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97      1035
+           1       0.94      0.89      0.91       374
+
+    accuracy                           0.96      1409
+   macro avg       0.95      0.94      0.94      1409
+weighted avg       0.96      0.96      0.96      1409

@@ -1,0 +1,16 @@
+WEEK 3 – SPORTS ANALYTICS REPORT
+===================================
+
+Dataset Overview:
+Total Records: 48
+Teams Analyzed: 10
+
+Top Performing Teams (by Win %):
+- Chennai Super Kings: 58.93%
+- Mumbai Indians: 58.33%
+- Sunrisers Hyderabad: 53.57%
+- Kolkata Knight Riders: 52.38%
+- Rising Pune Supergiant: 50.00%
+
+Predictive Model:
+Top-4 Finish Prediction Accuracy: 83.33%
