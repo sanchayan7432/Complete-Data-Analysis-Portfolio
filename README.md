@@ -91,17 +91,17 @@ Predictive Modeling
 
 1️⃣ Clone the repository:
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/sanchayan7432/Complete-Data-Analysis-Portfolio.git
 ```
 
 2️⃣ Navigate to the project directory:
 ```
-cd your-repo-name
+cd <your-repo-name>
 ```
 
 3️⃣ Run Python scripts:
 ```
-python project_script.py
+python <project_script_name.py>
 ```
 
 ## 📄 Project Documentation
@@ -135,6 +135,28 @@ Understanding domain-specific KPIs
 
 Improving storytelling with data
 ```
+
+## 📊 Data Insights
+![Visualization 1](visualizations/category_performance1.png)
+![Visualization 2](visualizations/customer_segmentation1.png)
+![Visualization 3](visualizations/monthly_sales1.png)
+![Visualization 4](visualizations/age_vs_glucose2.png)
+![Visualization 5](visualizations/bmi_vs_outcome2.png)
+![Visualization 6](visualizations/confusion_matrix2.png)
+![Visualization 7](visualizations/correlation_heatmap2.png)
+![Visualization 8](visualizations/outcome_distribution2.png)
+![Visualization 9](visualizations/matches_won3.png)
+![Visualization 10](visualizations/net_run_rate3.png)
+![Visualization 11](visualizations/points_distribution3.png)
+![Visualization 12](visualizations/daily_returns4.png)
+![Visualization 13](visualizations/drawdown4.png)
+![Visualization 14](visualizations//price_ma4.png)
+![Visualization 15](visualizations/vprice_moving_avg4.png)
+![Visualization 16](visualizations/team_win_percentage4.png)
+![Visualization 17](visualizations/churn_distribution5.png)
+![Visualization 18](visualizations/confusion_matrix5.png)
+![Visualization 19](visualizations/feature_importance5.png)
+![Visualization 20](visualizations/roc_curve5.png)
 
 ## 📬 Contact
 
