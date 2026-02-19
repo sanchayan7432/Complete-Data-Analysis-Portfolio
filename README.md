@@ -165,6 +165,11 @@ If you’d like to collaborate, discuss projects, or provide feedback:
 📧 [sanchayan7432@gmail.com]
 🔗 [https://www.linkedin.com/in/sanchayan-ghosh-0b735024a/]
 
+Interactive Dashboard Link
+```
+https://sanchayan-data-analysis-portfolio-kwrjs7fnehakjwvjkcdd3r.streamlit.app/
+```
+
 ## ⭐ Acknowledgment
 
 This portfolio reflects continuous learning, structured practice, and real-world problem-solving in Data Analytics & Machine Learning.
