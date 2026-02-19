@@ -3,7 +3,7 @@ Welcome to my Data Analysis & Machine Learning Portfolio, a structured collectio
 This repository demonstrates applied skills in data analysis, visualization, statistical reasoning, and predictive modeling using Python building here a professional portfolio of 5+ data analysis projects from different domains (business, healthcare, sports, finance, e-commerce) showcasing end-to-end data analysis, visualization, and business insight generation
 
 ## 👨‍💻 Developed By
-👨‍💻 Developed By
+SANCHAYAN GHOSH
 
 ## 📁 Projects Overview
 
