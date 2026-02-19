@@ -4,5 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 openpyxl
-streamlit
 plotly
+streamlit>=1.32
+altair>=5
