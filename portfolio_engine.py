@@ -58,7 +58,7 @@ elif project == "📊 Sales Analysis":
 
     st.write("**Objective:** Analyze sales trends and performance.")
 
-    img_path = os.path.join(base_path, "D:\data_analysis_portfolio\project1_sales_analysis", "visualizations")
+    img_path = os.path.join(base_path, "project1_sales_analysis", "visualizations")
 
     if os.path.exists(img_path):
         for img in os.listdir(img_path):
@@ -71,7 +71,7 @@ elif project == "📊 Sales Analysis":
 elif project == "🏥 Healthcare Analysis":
     st.header("🏥 Healthcare Analysis")
 
-    img_path = os.path.join(base_path, "D:\data_analysis_portfolio\project2_healthcare_analysis", "visualizations")
+    img_path = os.path.join(base_path, "project2_healthcare_analysis", "visualizations")
 
     if os.path.exists(img_path):
         for img in os.listdir(img_path):
@@ -84,7 +84,7 @@ elif project == "🏥 Healthcare Analysis":
 elif project == "⚽ Sports Analytics":
     st.header("⚽ Sports Analytics")
 
-    img_path = os.path.join(base_path, "D:\data_analysis_portfolio\project3_sports_analytics", "visualizations")
+    img_path = os.path.join(base_path, "project3_sports_analytics", "visualizations")
 
     if os.path.exists(img_path):
         for img in os.listdir(img_path):
@@ -97,7 +97,7 @@ elif project == "⚽ Sports Analytics":
 elif project == "💰 Financial Analysis":
     st.header("💰 Financial Analysis")
 
-    img_path = os.path.join(base_path, "D:\data_analysis_portfolio\project4_financial_analysis", "visualizations")
+    img_path = os.path.join(base_path, "project4_financial_analysis", "visualizations")
 
     if os.path.exists(img_path):
         for img in os.listdir(img_path):
@@ -110,9 +110,10 @@ elif project == "💰 Financial Analysis":
 elif project == "🛒 E-commerce Churn Analysis":
     st.header("🛒 E-commerce Churn Analysis")
 
-    img_path = os.path.join(base_path, "D:\data_analysis_portfolio\project5_ecommerce_analytics", "visualizations")
+    img_path = os.path.join(base_path, "project5_ecommerce_analytics", "visualizations")
 
     if os.path.exists(img_path):
         for img in os.listdir(img_path):
             if img.endswith(".png"):
                 st.image(os.path.join(img_path, img))
+
